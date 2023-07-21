@@ -7,12 +7,12 @@
                | |                   
                |_|                   
 # How to report a security vulnerability
-Email security@researchspace.com and encrypt your email using our public openPGP key. We will not accept report emails if they are not encrypted. PGP key and other information such as the scope is below. Use only openPGP and NOT any properity email encryption systems.
+Email security@researchspace.com and encrypt your email using our public openPGP key. We will not accept report emails if they are not encrypted. PGP key and other information such as the scope is below. Use only openPGP and NOT any propriety email encryption systems.
 
 # How to report a bug in RSpace
 If your report is only for a bug and not for a security issue, please email support@researchspace.com
 
-# Scope for security vulnerabilty program
+# Scope for security vulnerability program
 We want to hear from you if you discover a vulnerability on any of the following domains/subdomains:
  - demos.researchspace.com
 
@@ -29,7 +29,8 @@ If you have any questions around something being production safe or not, reach o
  - MUST NOT result in DOS OR DDOS attacks
  - Credential Stuffing/Password Spraying attacks is prohibited
 
-Vulnerabilties regarding DNS records, SPF records, DMARC records and generic vulnerability scans are NOT in scope.
+Vulnerabilities regarding DNS records, SPF records and DMARC records and generic vulnerability scans are NOT in scope.
+
 
 # OPENPGP PUBLIC KEY IS BELOW
 -----BEGIN PGP PUBLIC KEY BLOCK-----
