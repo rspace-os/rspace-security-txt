@@ -6,6 +6,7 @@
  |_|  \_\_____/| .__/ \__,_|\___\___|
                | |                   
                |_|                   
+
 # How to report a security vulnerability
 Email security@researchspace.com and encrypt your email using our public openPGP key. We will not accept report emails if they are not encrypted. PGP key and other information such as the scope is below. Use only openPGP and NOT any propriety email encryption systems.
 
