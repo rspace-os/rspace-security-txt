@@ -29,7 +29,7 @@ If you have any questions around something being production safe or not, reach o
  - MUST NOT result in DOS OR DDOS attacks
  - Credential Stuffing/Password Spraying attacks is prohibited
 
-Vulnerabilties regarding DNS records, SPF records and DMARC records and generic vulnerability scans are NOT in scope.
+Vulnerabilties regarding DNS records, SPF records, DMARC records and generic vulnerability scans are NOT in scope.
 
 # OPENPGP PUBLIC KEY IS BELOW
 -----BEGIN PGP PUBLIC KEY BLOCK-----
