@@ -1,0 +1,15 @@
+  _____   _____                      
+ |  __ \ / ____|                     
+ | |__) | (___  _ __   __ _  ___ ___ 
+ |  _  / \___ \| '_ \ / _` |/ __/ _ \
+ | | \ \ ____) | |_) | (_| | (_|  __/
+ |_|  \_\_____/| .__/ \__,_|\___\___|
+               | |                   
+               |_|                   
+# How to report a security vulnerability
+Email security@researchspace.com and encrypt your email using our public openPGP key. We will not accept emails if they are not encrypted. PGP key is below.
+
+# How to report a bug in RSpace
+If your report is only for a bug and not for a security issue, please email support@researchspace.com
+
+# Scope for security vulnerabilty program
