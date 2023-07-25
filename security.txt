@@ -15,7 +15,7 @@ If your report is only for a bug and not for a security issue, please email supp
 
 # Scope for security vulnerability program
 We want to hear from you if you discover a vulnerability on any of the following domains/subdomains:
- - demos.researchspace.com
+ - Your own self hosted version of RSpace
 
 If you have any questions around something being production safe or not, reach out to security@researchspace.com with any questions:
 
